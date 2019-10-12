@@ -1,7 +1,7 @@
 # caak-radio
 Caak Radio player in React Native
 
-# Ашигласан технологи
+# Used technology
 1. React-Native  
 2. Redux  
 3. React-redux  
@@ -9,10 +9,10 @@ Caak Radio player in React Native
 5. React-native-player - only android  
 6. React-native-ios-network-audio - only ios
 
-## Ажиллуулах
-1. ```git clone https://github.com/ENDiGo/caak-radio.git```    
+## Run
+1. ```git clone https://github.com/github-clonner/caak-radio.git```    
 2. ```npm install```
 3. <a href="https://facebook.github.io/react-native/docs/getting-started.html">Follow this doc</a>
 
 ## Screenshot
-![alt text](https://raw.githubusercontent.com/ENDiGo/caak-radio/master/screen1.PNG "Screen shot")
+![alt text](https://raw.githubusercontent.com/github-clonner/caak-radio/master/screen1.PNG "Screen shot")
